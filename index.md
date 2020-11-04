@@ -285,10 +285,10 @@ Note we also have a CodiMD (the open-source version of HackMD)
 available at https://codimd.carpentries.org
 {% endcomment %}
 {% if page.collaborative_notes %}
-<h2 id="collaborative_notes"> <a href="{{ page.collaborative_notes }}">Collaborative Notes</a></h2>
+<h2 id="collaborative_notes"> <a href="{{ page.collaborative_notes }}">Collaborative Notes on Etherpad</a></h2>
 
 <p>
-  We will use this <a href="{{ page.collaborative_notes }}"><b>collaborative document</b></a> for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this <a href="{{ page.collaborative_notes }}"><b>collaborative document </b></a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
