@@ -288,7 +288,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes"> <a href="{{ page.collaborative_notes }}">Collaborative Notes on Etherpad</a></h2>
 
 <p>
-  We will use this <a href="{{ page.collaborative_notes }}"><b>collaborative document </b></a> for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this <a href="{{ page.collaborative_notes }}"  target="_blank"><b>collaborative document </b></a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
